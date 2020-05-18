@@ -1,8 +1,8 @@
 # [https://nentang.vn](https://nentang.vn)
-[![./docs/assets/shared/img/logo-nentang.jpg](./docs/assets/shared/img/logo-nentang.jpg)](./docs/assets/shared/img/logo-nentang.jpg)
+[![./docs/assets/shared/img/f-shop.png](./docs/assets/shared/img/f-shop.png)](./docs/assets/shared/img/f-shop.png)
 - Các bài học miễn phí về Lập trình
 - Học web PHP - Learning PHP - Laravel
-- Xem nhiều hơn tại [https://nentang.vn](https://nentang.vn)
+- Xem nhiều hơn tại 
 
 # Các chương trình cần thiết để lập trình web
 - [Git for window](https://git-scm.com/download/win)
@@ -18,7 +18,7 @@
 - Để đơn giản, các bạn nên clone source về thư mục `htdocs`
 - Chạy câu lệnh
 ```
-git clone https://github.com/kellyfire611/sunshinenew.git
+git clone https://github.com/0969930917/0969930917.github.io
 ```
 
 ## Step 2: install các thư viện (package) cần thiết thông qua `composer`
